@@ -1,6 +1,6 @@
-<h2 align="center"> Hi, I'm Zain</h2>
-<p align="center">
-  A dedicated <b>Web Developer</b> passionate about solving problems and bringing creative ideas to life.  
+<h2 align="center"> Hi! You could have been anywhere in the world right now, but you're here with me.</h2>
+<p align="start">
+  I'm Zain, a dedicated <b>Web Developer</b> passionate about solving problems and bringing creative ideas to life.  
   I focus on writing clean, efficient code and constantly improving my skills to build better projects every day. 🚀
 </p>
 
