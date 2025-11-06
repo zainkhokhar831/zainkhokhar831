@@ -32,7 +32,7 @@
 
 ---
 ### 🔗 Connect With Me
-[![Email](https://img.shields.io/badge/mohammadzainkhokhar@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mohammadzainkhokhar@gmail.com)
+[![Gmail](https://img.shields.io/badge/HELLO%40MOHAMMADZAINKHOKHAR.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadzainkhokhar@gmail.com)
 
 
 Update profile README
