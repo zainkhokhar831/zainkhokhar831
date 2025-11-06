@@ -1,49 +1,38 @@
-# 👋 Hi, I'm Zain Khokhar
-
-🚀 **Full Stack Web Developer**  
-💻 Passionate about creating modern, responsive, and dynamic web applications.  
-📚 Currently learning and improving my skills in React, Next.js, and advanced PHP.
-
----
-
-### 🧠 About Me
-- 🌐 Experienced in **Frontend & Backend** development  
-- ⚡ Skilled in **HTML, CSS, Bootstrap, JavaScript, PHP, WordPress, React & Next.js**  
-- 🔧 Focused on building clean, efficient, and scalable code  
-- 💬 Ask me about **Web Development & UI Design**
-
----
-
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+<h2 align="center">👋 Hi, I'm Zain</h2>
+<p align="center">
+  A dedicated <b>Web Developer</b> passionate about solving problems and bringing creative ideas to life.  
+  I focus on writing clean, efficient code and constantly improving my skills to build better projects every day. 🚀
 </p>
 
 ---
-
-### 📊 GitHub Stats
-![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainkhokhar831&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainkhokhar831&layout=compact&theme=radical)
-
----
-
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=zainkhokhar831&theme=darkhub&margin-w=15)
 
 ---
 
-### 📫 Connect With Me
-📧 **Email:** mohammadzainkhokhar@gmail.com  
-🌐 [GitHub Profile](https://github.com/zainkhokhar831)
+### 🛠️ Languages and Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainkhokhar831&layout=compact&theme=radical)
+
+---
+### 🔗 Connect With Me
+[![Gmail](https://img.shields.io/badge/Email-zainkhokhar%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainkhokhar@gmail.com)
 
 Update profile README
 
