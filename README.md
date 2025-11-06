@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Zain</h2>
+<h2 align="center"> Hi, I'm Zain</h2>
 <p align="center">
   A dedicated <b>Web Developer</b> passionate about solving problems and bringing creative ideas to life.  
   I focus on writing clean, efficient code and constantly improving my skills to build better projects every day. 🚀
