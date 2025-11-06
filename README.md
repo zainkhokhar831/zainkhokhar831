@@ -32,7 +32,8 @@
 
 ---
 ### 🔗 Connect With Me
-[![Gmail](https://img.shields.io/badge/Email-zainkhokhar%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainkhokhar@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-mohammadzainkhokhar%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadzainkhokhar@gmail.com)
+
 
 Update profile README
 
