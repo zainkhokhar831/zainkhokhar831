@@ -6,8 +6,7 @@
 
 ---
 ### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=zainkhokhar831&theme=darkhub&margin-w=15)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=zainkhokhar831&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
 ---
 
 ### 🛠️ Languages and Tools
